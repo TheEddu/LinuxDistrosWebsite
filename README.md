@@ -39,7 +39,7 @@ LinuxDistros/
 
 ## Como Acessar
 
-**Disponivel em**:
+**Disponivel em**: https://theeddu.github.io/LinuxDistrosWebsite/
 
 ## Tecnologias Utilizadas
 
